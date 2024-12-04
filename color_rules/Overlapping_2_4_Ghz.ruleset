@@ -1,0 +1,12 @@
+{
+  "ColoringRuleSet" : [
+    {
+      "enable" : true,
+      "filter" : "2-5 OR 7-10 OR 12-13",
+      "backgroundColor" : "#ff0000",
+      "name" : "Overlapping",
+      "foregroundColor" : "#ffffff"
+    }
+  ],
+  "ColoringRuleSetName" : "Overlapping 2.4GHz"
+}

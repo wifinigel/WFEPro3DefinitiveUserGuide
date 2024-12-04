@@ -1,0 +1,33 @@
+{
+  "ColoringRuleSet" : [
+    {
+      "enable" : true,
+      "filter" : "dot11.net.generation == 6",
+      "backgroundColor" : "#7fff00",
+      "name" : "Wi-Fi 6",
+      "foregroundColor" : "#000000"
+    },
+    {
+      "enable" : true,
+      "filter" : "dot11.net.generation == 5",
+      "backgroundColor" : "#ffff2a",
+      "name" : "Wi-Fi 5",
+      "foregroundColor" : "#000000"
+    },
+    {
+      "enable" : true,
+      "filter" : "dot11.net.generation == 4",
+      "backgroundColor" : "#ffaa54",
+      "name" : "Wi-Fi 4",
+      "foregroundColor" : "#000000"
+    },
+    {
+      "enable" : true,
+      "filter" : "dot11.net.generation == 3",
+      "backgroundColor" : "#ff5454",
+      "name" : "Wi-Fi 3",
+      "foregroundColor" : "#000000"
+    }
+  ],
+  "ColoringRuleSetName" : "Generations"
+}
