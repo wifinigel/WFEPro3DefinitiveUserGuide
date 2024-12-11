@@ -6,7 +6,7 @@ This folder contains the coloring rule sets used throughout the book:
 
 Highlights networks with different colors based on their Wi-Fi generation designation.
 
-[Download](color_rules/Generations.ruleset)
+[Download](Generations.ruleset)
 
 See the _Multi-Rule Example_ section in _Chapter 12, Data Visualization: Scan Results Organization, Coloring Rules, Data Enhancements & Hidden Gems_.
 
