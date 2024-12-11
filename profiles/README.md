@@ -1,4 +1,4 @@
-# Profiles
+# Column Profiles
 
 This folder contains the column profiles used throughout the book:
 
