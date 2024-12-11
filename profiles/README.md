@@ -37,3 +37,21 @@ See the _Roaming Issues_ section in _Chapter 14, Troubleshooting Workflow_.
 See the _Security Protocol Issues_ section in _Chapter 14, Troubleshooting Workflow_.
 
 [Download](https://github.com/wifinigel/WFEPro3DefinitiveUserGuide/raw/refs/heads/main/profiles/Security.profile)
+
+## Airport Utility.profile
+
+See the _Apple AirPort Utility (iOS)_ section in _Chapter 5, Data Import From External Systems_.
+
+[Download](https://github.com/wifinigel/WFEPro3DefinitiveUserGuide/raw/refs/heads/main/profiles/Security.profile)
+
+## Analiti CSV.profile
+
+See the _Analiti (Android)_ section in _Chapter 5, Data Import From External Systems_.
+
+[Download](https://github.com/wifinigel/WFEPro3DefinitiveUserGuide/raw/refs/heads/main/profiles/Security.profile)
+
+## Aruba Utilities.profile
+
+See the _Aruba Utilities (Android)_ section in _Chapter 5, Data Import From External Systems_.
+
+[Download](https://github.com/wifinigel/WFEPro3DefinitiveUserGuide/raw/refs/heads/main/profiles/Security.profile)
